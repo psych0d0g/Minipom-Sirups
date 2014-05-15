@@ -6,10 +6,10 @@ Home Made Sirup Rezepte für den Minipom
 Pomm Mate (Club Mate alternative aus dem Minipom)
 
 Zutaten
-6l kaltes Wasser
-20 EL Mate-Tee
-15 TL Zucker oder 10 TL Rohrzucker oder entsprechend Stevia
-Zitronensaft oder Konzentrat
+   * 6l kaltes Wasser
+   * 20 EL Mate-Tee
+   * 15 TL Zucker oder 10 TL Rohrzucker oder entsprechend Stevia
+   * Zitronensaft oder Konzentrat
 
 Durchführung:
    * Wasser zum kochen bringen.
